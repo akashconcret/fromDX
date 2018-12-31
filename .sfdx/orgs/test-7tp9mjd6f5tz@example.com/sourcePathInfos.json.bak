@@ -1,0 +1,117 @@
+[
+    [
+        "/Users/akashkumar/geolocation/force-app",
+        {
+            "sourcePath": "/Users/akashkumar/geolocation/force-app",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1545981109000,
+            "changeTime": 1545981109000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/akashkumar/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/akashkumar/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1545981114000,
+            "changeTime": 1545981114000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/akashkumar/geolocation/force-app/main/default",
+        {
+            "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1546235501000,
+            "changeTime": 1545994504000,
+            "contentHash": "461eeafc376496d626321d1533a6b2401f757253",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/akashkumar/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1545981077000,
+            "changeTime": 1545981077000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/akashkumar/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1546235448000,
+            "changeTime": 1546235448000,
+            "isWorkspace": false,
+            "contentHash": "e76deaeb38f72fff7fe76012858137c44519fa1c"
+        }
+    ],
+    [
+        "/Users/akashkumar/geolocation",
+        {
+            "sourcePath": "/Users/akashkumar/geolocation",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1545994095000,
+            "changeTime": 1545994095000,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/akashkumar/geolocation/force-app/main/default/classes/ExpenseController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default/classes/ExpenseController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 697,
+            "modifiedTime": 1546235545000,
+            "changeTime": 1546235545000,
+            "contentHash": "c7f5cb2c6ffb9952a949b21b838349eee23b2dd0"
+        }
+    ],
+    [
+        "/Users/akashkumar/geolocation/force-app/main/default/classes/ExpenseController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default/classes/ExpenseController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1546235448000,
+            "changeTime": 1546235448000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]
