@@ -1,6 +1,7 @@
 public class ExpenseController {
      String[] types = new String[]{};
      public Date expenseDate {get;set;}
+     public Date expenseDate123456 {get;set;}
      public Date expenseDate12345 {get;set;}
 
      public Date expenseDate55566 {get;set;}
