@@ -5,11 +5,9 @@ public class ExpenseController {
      public Date expenseDate12345 {get;set;}
      public Date expenseDate123457 {get;set;}
      //Akash pundir11
-<<<<<<< HEAD
      //123Akash
-=======
      //Akash 123
->>>>>>> eac49cf923f3c1fa1805ea423624bbe1b8041fae
+     
      public Date expenseDate55566 {get;set;}
     
   
