@@ -65,7 +65,7 @@
             "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default/classes",
             "isDirectory": true,
             "size": 136,
-            "modifiedTime": 1546427678000,
+            "modifiedTime": 1546427222000,
             "changeTime": 1546235448000,
             "contentHash": "e76deaeb38f72fff7fe76012858137c44519fa1c",
             "isMetadataFile": false,
@@ -94,10 +94,10 @@
             "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default/classes/ExpenseController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 898,
-            "modifiedTime": 1546427678000,
-            "changeTime": 1546427678000,
-            "contentHash": "3f7ed0a3559c772b78982b9171b918fac2e901e3"
+            "size": 874,
+            "modifiedTime": 1546427414000,
+            "changeTime": 1546427414000,
+            "contentHash": "db5bc77861e263352f82b4f4f2a565acf6541352"
         }
     ],
     [
