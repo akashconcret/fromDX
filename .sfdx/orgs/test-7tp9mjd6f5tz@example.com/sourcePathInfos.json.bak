@@ -62,15 +62,15 @@
     [
         "/Users/akashkumar/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1546235448000,
             "changeTime": 1546235448000,
-            "isWorkspace": false,
-            "contentHash": "e76deaeb38f72fff7fe76012858137c44519fa1c"
+            "contentHash": "e76deaeb38f72fff7fe76012858137c44519fa1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -78,14 +78,13 @@
         {
             "sourcePath": "/Users/akashkumar/geolocation",
             "isDirectory": true,
-            "size": 340,
-            "modifiedTime": 1545994095000,
-            "changeTime": 1545994095000,
-            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "size": 374,
+            "modifiedTime": 1546237843000,
+            "changeTime": 1546237843000,
+            "contentHash": "807b7aaa92451ec641bfc0e0a5d2bf0e1e9005a1",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -95,10 +94,10 @@
             "sourcePath": "/Users/akashkumar/geolocation/force-app/main/default/classes/ExpenseController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 697,
-            "modifiedTime": 1546235545000,
-            "changeTime": 1546235545000,
-            "contentHash": "c7f5cb2c6ffb9952a949b21b838349eee23b2dd0"
+            "size": 695,
+            "modifiedTime": 1546253882000,
+            "changeTime": 1546253882000,
+            "contentHash": "652ace618a71077ff0ad04694bdbf93bd1c320d3"
         }
     ],
     [
